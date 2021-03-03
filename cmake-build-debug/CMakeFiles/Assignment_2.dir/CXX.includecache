@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/Maze.h
+string
+-
+iostream
+-
+Node.h
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/Node.h
+MazeStack.h
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/MazeStack.h
+
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/MazePosition.h
+ostream
+-
+
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/MazeStack.h
+ostream
+-
+Node.h
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/Node.h
+
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/Node.h
+MazePosition.h
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/MazePosition.h
+
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/main.cpp
+Maze.h
+/Users/johnhatcher/Desktop/datastructures/assignment-2-hatchbox20/src/Maze.h
+
